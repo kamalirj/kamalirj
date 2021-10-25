@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kamalirj
-- 👀 I’m interested in java...
-- 🌱 I’m currently learning java course...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learned java course
 - 📫 How to reach me kamalirj42@gmail.com
 
 <!---
